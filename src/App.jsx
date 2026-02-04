@@ -1,6 +1,6 @@
 import MainLayout from "./components/layout/MainLayout";
-import PostForm from "./features/post-form";
-import PostsList from "./features/Posts-list";
+import PostForm from "./features/PostForm";
+import PostsList from "./features/PostsList";
 import {
   BrowserRouter as Router,
   Navigate,
